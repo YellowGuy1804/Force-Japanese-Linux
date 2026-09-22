@@ -1,2 +1,3 @@
 # Force-Japanese-Linux
-The CIA agents they glow in the dark
+put this thing to ~/.config/fontconfig/
+and the kanjis shouldn't be chinese anymore
